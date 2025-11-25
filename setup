@@ -1,0 +1,3 @@
+#!/bin/bash
+# Quick setup wrapper
+./Scripts/setup.sh "$@"
